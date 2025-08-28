@@ -45550,7 +45550,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 181
+      "id": 178
     },
     {
       "type": "Feature",
@@ -45818,7 +45818,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 182
+      "id": 180
     },
     {
       "type": "Feature",
@@ -45978,7 +45978,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 184
+      "id": 182
     },
     {
       "type": "Feature",
@@ -46249,6 +46249,20 @@
         "type": "Polygon"
       },
       "id": 187
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin"
+      },
+      "geometry": {
+        "coordinates": [
+          13.37059052436507,
+          52.51306357493195
+        ],
+        "type": "Point"
+      },
+      "id": 188
     }
   ]
 }
